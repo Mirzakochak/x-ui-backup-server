@@ -62,7 +62,7 @@ bash <(curl -s https://raw.githubusercontent.com/Mirzakochak/x-ui-backup-server/
 ---
 
 🧩 منوی نصب ظاهر می‌شود:
---------------------------
+
 ===============================
   XUI Backup System
   Developed by Mr.Ali

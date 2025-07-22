@@ -54,10 +54,12 @@ scp credentials.json root@your-server:/root/gdrive-backup/
 
    [دانلود فایل زیپ پروژه] یا:
 
-   git clone https://github.com/yourusername/xui-gdrive-backup.git
-   cd xui-gdrive-backup
-   chmod +x install.sh
-   ./install.sh
+  ```bash
+bash <(curl -s https://raw.githubusercontent.com/Mirzakochak/x-ui-backup-server/main/install.sh)
+
+```
+
+---
 
 🧩 منوی نصب ظاهر می‌شود:
 --------------------------

@@ -63,10 +63,7 @@ bash <(curl -s https://raw.githubusercontent.com/Mirzakochak/x-ui-backup-server/
 
 🧩 منوی نصب ظاهر می‌شود:
 
-===============================
-  XUI Backup System
-  Developed by Mr.Ali
-===============================
+===============XUI Backup System Developed by Mr.Ali================
 1) Install
 2) Uninstall
 3) Exit
